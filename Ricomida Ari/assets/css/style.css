@@ -1,0 +1,23 @@
+    body {
+      font-family: 'Cabin', sans-serif;
+    }
+
+    .navbar-brand {
+      font-family: 'Lobster', cursive;
+    }
+
+    .carousel-indicators {
+      position: relative;
+      margin-top: 35px;
+    }
+
+    .carousel-indicators>li {
+      border-radius: 50%;
+      height: 25px !important;
+      width: 25px !important;
+      background-color: black !important;
+    }
+
+    .ricomida-text {
+      font-family: 'Lobster', cursive;
+    }
